@@ -1,0 +1,9 @@
+A. .NET FRAMEWORK ARCHITECTURE
+  A1. What is dot net framework
+  A2. Common Language Runtime in .NET 
+  
+B. C# .NET BASIC
+  B1. Basic Structure of C# Program 
+  B2. Methods and Properties of Console Class in C# 
+  
+  Notes : Mohon ditambahkan sesuai kriteria.
