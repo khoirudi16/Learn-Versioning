@@ -1,9 +1,12 @@
 A. .NET FRAMEWORK ARCHITECTURE
   A1. What is dot net framework
-  A2. Common Language Runtime in .NET 
+  A2. Common Language Runtime in .NET
+  A3. .NET Program Execution Process
+  A4. Intermediate Language in C# 
   
 B. C# .NET BASIC
   B1. Basic Structure of C# Program 
-  B2. Methods and Properties of Console Class in C# 
+  B2. Methods and Properties of Console Class in C#
+  B3. Creating Altering and Deleting Tables in SQL server
   
   Notes : Mohon ditambahkan sesuai kriteria. Selanjutnya akan ada pull request. tidak semua request akan dimerge.
