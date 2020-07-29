@@ -13,6 +13,6 @@ B. C# .NET BASIC
 
 Created By : Muhammad Khoirudin
 Why Created : For leraning versioning
-Okay
+OKE
   
   Notes : Mohon ditambahkan sesuai kriteria. Selanjutnya akan ada pull request. tidak semua request akan dimerge.
